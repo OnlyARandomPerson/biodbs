@@ -1,3 +1,4 @@
 .setup
 .dirtree
+.db_extraction.md
 db_extraction/
